@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Switchback Daypack",
+    "price": 69.99,
+    "category": "Hiking Gear",
+    "description": "A lightweight 25-liter daypack with padded shoulder straps and room for your trail essentials.",
+    "imageUrl": "./images/daypack.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Adjustable Trekking Poles",
+    "price": 49.99,
+    "category": "Hiking Gear",
+    "description": "A pair of adjustable aluminum trekking poles for added support on steep climbs and uneven trails.",
+    "imageUrl": "./images/trekking-poles.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ridgeline Hiking Boots",
+    "price": 129.99,
+    "category": "Hiking Gear",
+    "description": "Durable hiking boots with ankle support and grippy soles for rocky trails and long days outdoors.",
+    "imageUrl": "./images/hiking-boots.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Summit Rain Jacket",
+    "price": 89.99,
+    "category": "Hiking Gear",
+    "description": "A packable rain jacket with an adjustable hood and zippered pockets for changing mountain weather.",
+    "imageUrl": "./images/rain-jacket.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Merino Hiking Socks",
+    "price": 19.99,
+    "category": "Hiking Gear",
+    "description": "Cushioned merino wool blend socks designed for comfort on day hikes and weekend backpacking trips.",
+    "imageUrl": "./images/hiking-socks.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Two-Person Trail Tent",
+    "price": 179.99,
+    "category": "Camping Gear",
+    "description": "A compact two-person tent with a rainfly, mesh ventilation, and space to unwind after a day on the trail.",
+    "imageUrl": "./images/tent2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mummy Sleeping Bag",
+    "price": 99.99,
+    "category": "Camping Gear",
+    "description": "A cozy mummy-style sleeping bag with an adjustable hood and a stuff sack for easy packing.",
+    "imageUrl": "./images/sleeping-bag.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Inflatable Sleeping Pad",
+    "price": 59.99,
+    "category": "Camping Gear",
+    "description": "A lightweight inflatable pad that adds cushioning between your sleeping bag and the ground.",
+    "imageUrl": "./images/sleeping-pad.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Folding Camp Chair",
+    "price": 44.99,
+    "category": "Camping Gear",
+    "description": "A portable folding chair with a sturdy frame and carrying bag for relaxing around camp.",
+    "imageUrl": "./images/camp-chair.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Compact Camping Stove",
+    "price": 39.99,
+    "category": "Camping Gear",
+    "description": "A compact backpacking stove with folding pot supports for preparing meals at your campsite.",
+    "imageUrl": "./images/camping-stove.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Rechargeable Trail Headlamp",
+    "price": 34.99,
+    "category": "Trail Essentials",
+    "description": "A rechargeable headlamp with an adjustable strap and multiple lighting modes for early starts and evenings at camp.",
+    "imageUrl": "./images/headlamp.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Insulated Water Bottle",
+    "price": 24.99,
+    "category": "Trail Essentials",
+    "description": "A reusable stainless steel water bottle with an insulated design and a convenient carrying loop.",
+    "imageUrl": "./images/water-bottle.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Backpacking Water Filter",
+    "price": 39.99,
+    "category": "Trail Essentials",
+    "description": "A compact water filtration kit with a squeeze pouch that packs easily into a backpack side pocket.",
+    "imageUrl": "./images/water-filter.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Trail Navigation Compass",
+    "price": 17.99,
+    "category": "Trail Essentials",
+    "description": "A compact compass with clear directional markings for checking your heading on the trail.",
+    "imageUrl": "./images/compass.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Trail First-Aid Kit",
+    "price": 29.99,
+    "category": "Trail Essentials",
+    "description": "A compact zippered kit containing bandages, gauze, and basic first-aid supplies for your outdoor pack.",
+    "imageUrl": "./images/first-aid.jpg"
+  }
+]
